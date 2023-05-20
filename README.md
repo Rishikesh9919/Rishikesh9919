@@ -2,8 +2,8 @@
     <h1>Hello there! I'm Rishikesh Sharma 👋</h1>
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
     </br></br>
-    <h4> Currently, I am part of the talented team at Sankey Solution, </br> where I contribute my skills and expertise to deliver innovative solutions. </h4>
-    <h4> Welcome to my GitHub profile.</br> Here you'll find a collection of my projects, contributions, and explorations in the world of software development.</h4>
+    <p> Currently, I am part of the talented team at Sankey Solution, </br> where I contribute my skills and expertise to deliver innovative solutions. </p>
+    <p> Welcome to my GitHub profile.</br> Here you'll find a collection of my projects, contributions, and explorations in the world of software development.</p>
 </div>
 <h1></h1>
 <h3 align="center">⚒ Technologies & Tools</h3>

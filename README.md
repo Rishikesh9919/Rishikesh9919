@@ -18,7 +18,6 @@
     <a href="https://www.nginx.com" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-%2312100E.svg?logo=nginx&logoColor=009639&style=for-the-badge"/></a>   
     <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-%2312100E.svg?logo=linux&logoColor=white&style=for-the-badge"/></a>   
     <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-    <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
     <!--   
         <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/Html5-%2312100E.svg?logo=html5&style=for-the-badge"/></a>
         <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/Css3-%2312100E.svg?logo=css3&style=for-the-badge"/></a> 
